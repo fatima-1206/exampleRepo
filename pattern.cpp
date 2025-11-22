@@ -4,8 +4,10 @@ int main() {
 
     for (int i = 0; i < 5; i++)
     {
-        cout << "A ";
+        cout << "* ";
     }
     cout << endl;
+    cout << endl;
+
     return 0;
 }
